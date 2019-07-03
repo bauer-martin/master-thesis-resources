@@ -1,0 +1,5 @@
+data/
+.git/
+.gitignore
+configure.sh
+run-splconqueror.sh
